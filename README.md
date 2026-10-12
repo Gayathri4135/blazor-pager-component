@@ -14,7 +14,6 @@ The sample showcases a common paging workflow in which user interaction with pag
 - Illustrates an on-demand data presentation approach.
 - Uses sample data stored within the project's `Data` folder.
 - Includes a dedicated sample page hosted in `Pages/Index.razor`.
-- [VERIFY: Exact `SfPager` properties, methods, events, and templates used by the sample could not be retrieved from the public repository source.]
 
 ## Prerequisites
 
