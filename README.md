@@ -49,7 +49,6 @@ dotnet run
 
 - `Pages/Index.razor` — Main sample page demonstrating Pager-related functionality.
 
-
 ## Support and Feedback
 
 - For general product questions, visit the [Syncfusion Community Forum](https://www.syncfusion.com/forums) or [Syncfusion Support](https://www.syncfusion.com/support).
