@@ -34,20 +34,24 @@ The sample showcases a common paging workflow in which user interaction with pag
 
 1. Open the repository folder in Visual Studio Code.
 2. Open the integrated terminal.
-3. Navigate to the project directory.
+3. Navigate to the `CreatingPagerComponent` project directory.
+
+```bash
+cd CreatingPagerComponent
+```
+4. Restore project dependencies:
 
 ```bash
 dotnet restore
+```
+
+5. Run the application:
+
+```bash
 dotnet run
 ```
 
-4. Open the URL displayed in the terminal after the application starts.
-
-## Project Structure
-
-- `CreatingPagerComponent.sln` — Visual Studio solution file containing the sample projects.
-
-- `Pages/Index.razor` — Main sample page demonstrating Pager-related functionality.
+6. Open the URL displayed in the terminal after the application starts.
 
 ## Support and Feedback
 
